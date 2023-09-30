@@ -1,7 +1,7 @@
 import React from "react";
-import flipkart from "../src/assets/images/flipkart.png";
-import amazon from "../src/assets/images/amazon.png";
-import shoe from "../src/assets/images/shoe_image.png";
+import flipkart from '../assets/images/flipkart.png'
+import amazon from "../assets/images/amazon.png";
+import shoe from "../assets/images/shoe_image.png";
 
 const Hero = () => {
   return (
